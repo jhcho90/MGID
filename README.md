@@ -4,7 +4,7 @@ This repository contains the Pytorch implementation code of the paper "Memory-gu
 
 <!-- add figure figures/MGID.jpg -->
 <p align="center">
-  <img src="figures/jpg.png" width="600">
+  <img src="figures/MGID.png" width="600">
 
 
 ## Abstract
